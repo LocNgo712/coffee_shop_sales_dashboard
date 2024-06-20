@@ -42,5 +42,9 @@ II.  CHART'S REQUIREMENTS
      - Utilize a heat map to visualize sales patterns by days and hours.
      - Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific day-hour
     
-    ------------------------------------------------------------------------------------
-    ![Not found image](images/Coffee_shop_sales_dashboard.png)
+     --------------------------------------------------------------------------------
+     ![Coffee_shop_sales_dashboard](https://github.com/LocNgo712/coffee_shop_sales_dashboard/assets/56879656/b3b47397-e55a-4b5d-99a9-de02055ab78f)
+
+
+     
+    
