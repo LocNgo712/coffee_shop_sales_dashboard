@@ -1,4 +1,4 @@
-Coffee Shio Sales Project - MySQL + PowerBI
+Coffee Shop Sales Project - MySQL + PowerBI
 
 ---------------------------------PROBLEM STATEMENT-----------------------------------
 I. KPI'S REQUIREMENTS
