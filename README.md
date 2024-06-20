@@ -41,3 +41,6 @@ II.  CHART'S REQUIREMENTS
   7. Sales Analysis by Days and Hours:
      - Utilize a heat map to visualize sales patterns by days and hours.
      - Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific day-hour
+    
+    ---------------------------------------------------------------------------------------
+    ![Not found image](images/Coffee_shop_sales_dashboard.png)
