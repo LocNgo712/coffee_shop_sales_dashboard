@@ -1,6 +1,6 @@
 Coffee Shop Sales Project - MySQL + PowerBI
 
----------------------------------PROBLEM STATEMENT-----------------------------------
+---------------------------------PROBLEM STATEMENT-------------------------------------------
 I. KPI'S REQUIREMENTS
   1. Total Sales Analysis
      - Caculate the total sales for each respective month.
