@@ -14,6 +14,8 @@ I. KPI'S REQUIREMENTS
      - Calulate the total quantity sold for each respective month.
      - Determine the month-on-month increasse or decreasae in the total quantity sold.
      - Calculate the difference in the total quantity sold between the selected month and the previous month.
+
+
 II.  CHART'S REQUIREMENTS
   1. Calendar Heat Map:
      - Implement a calendar heat map that dynamically adjusts based on the selected month from a slicer.
